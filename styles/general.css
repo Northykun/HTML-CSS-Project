@@ -1,0 +1,22 @@
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p{
+  font-family: Roboto, Arial, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body {
+  /* This style below will be inherited */
+  font-family: roboto. arial;
+  margin: 0;
+  padding-top: 110px;
+  padding-left: 190px;
+  padding-right: 190px;
+  background-color: light rgb(156, 156, 156)
+}
+</style>

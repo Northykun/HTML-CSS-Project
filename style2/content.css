@@ -1,0 +1,52 @@
+.content-grid {
+
+}
+.channel-picture {
+  vertical-align: top;
+  margin-left: 590px;
+  margin-top: 25px;
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+  
+}
+.profile-picture {
+  width: 40px;
+  border-radius: 20px;
+  
+}
+.profile-title {
+  padding-left: 10px;
+  
+}
+.dot-menu {
+  padding-left: 290px;
+
+}
+
+.neil-picture {
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+  width: 25.5%;
+  margin-left: 592px;
+  margin-top: 15px;
+  height:80%;
+  position: relative;
+
+}
+.video-sound {
+
+  position: absolute;
+  margin-left: 1005px;
+  margin-top: -70px;
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: opacity 0.15;
+}
+.sound {
+  margin-left: 985px;
+
+}

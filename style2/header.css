@@ -1,0 +1,138 @@
+.header {
+  height:140px;
+  width: flex;
+  display: ;
+  flex-direction: ;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color:rgb(228, 226, 226);
+  
+}
+.middle-section {
+  flex: 1%;
+  margin-left: 20px;
+  margin-right: 34px;
+  max-width: 1000px;
+  align-items: center;
+  display: flex;
+  
+}
+.barry-icon {
+  padding: 2px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-bottom-color:rgb(235, 0, 0);
+  border-top-color: rgb(223, 33, 166) ;
+  border-radius: 50px;
+  margin-left: 507px;
+  margin-right: 10px;
+  margin-top: 26px;
+  position: relative;
+  cursor: pointer;
+}
+.chris-icon {
+  padding: 2px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-bottom-color:rgb(235, 0, 0);
+  border-top-color: rgb(223, 33, 166) ;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 26px;
+  position: relative;
+  cursor: pointer;
+}
+.paul-icon {
+  padding: 2px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-bottom-color:rgb(235, 0, 0);
+  border-top-color: rgb(223, 33, 166) ;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 26px;
+  position: relative;
+  cursor: pointer;
+}
+.tenz-icon {
+  padding: 2px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color:rgb(218, 218, 218);
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 26px;
+  position: relative;
+  cursor: pointer;
+  
+}
+.warren-icon {
+  padding: 2px;
+  width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 26px;
+  position: relative;
+  cursor: pointer;
+  border-color:rgb(218, 218, 218);
+}
+.name-info {
+  margin-top: 0;
+  font-size: 14px;
+  font-weight: 470;
+  line-height: 9px;
+  margin-bottom: 4px;
+  align-items: center;
+  display: flex;
+  color: rgb(27, 27, 27);
+  font-family: calibri;
+  gap: 10px;
+}
+.barry {
+  margin-left: 520px;
+}
+.chris {
+  margin-left: 10px;
+}
+.paul {
+  margin-left: 11px;
+}
+.tenz {
+  margin-left: 34px;
+  color: rgb(114, 114, 114);
+
+}
+.warren {
+  margin-left: 34px;
+  color: rgb(114, 114, 114)
+}
